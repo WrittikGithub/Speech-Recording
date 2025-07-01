@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vacha</string>
+    <!-- Replace with your actual Web Client ID from Google Cloud Console -->
+    <string name="server_client_id">693783259447-9eirvmsfhuqr5hv0c743tsm6spsormqg.apps.googleusercontent.com</string>
+</resources>

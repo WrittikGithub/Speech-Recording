@@ -1,0 +1,2 @@
+/Users/llkids/Desktop/Writtik_Front-end/lexspeech/android/app/.cxx/Debug/l253cs1z/x86/CMakeFiles/edit_cache.dir
+/Users/llkids/Desktop/Writtik_Front-end/lexspeech/android/app/.cxx/Debug/l253cs1z/x86/CMakeFiles/rebuild_cache.dir

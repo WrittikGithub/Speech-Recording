@@ -1,0 +1,2 @@
+/Users/nchoudhary/Desktop/lexspeech/android/app/.cxx/RelWithDebInfo/2w385w3u/x86/CMakeFiles/edit_cache.dir
+/Users/nchoudhary/Desktop/lexspeech/android/app/.cxx/RelWithDebInfo/2w385w3u/x86/CMakeFiles/rebuild_cache.dir

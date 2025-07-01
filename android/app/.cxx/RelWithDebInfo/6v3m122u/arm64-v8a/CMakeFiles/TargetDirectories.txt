@@ -1,0 +1,2 @@
+/Users/llkids/Desktop/lexspeech/android/app/.cxx/RelWithDebInfo/6v3m122u/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/llkids/Desktop/lexspeech/android/app/.cxx/RelWithDebInfo/6v3m122u/arm64-v8a/CMakeFiles/rebuild_cache.dir

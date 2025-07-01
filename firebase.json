@@ -1,0 +1,56 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "vacha-88a27",
+          "appId": "1:93186379991:android:de10d55ae2cfe294d92092",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "vacha-88a27",
+          "appId": "1:633270936961:ios:031191b2f22cca7778f480",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "vacha-88a27",
+          "appId": "1:633270936961:ios:031191b2f22cca7778f480",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "web": {
+        "default": {
+          "projectId": "vacha-88a27",
+          "appId": "1:633270936961:web:3443dd69dec2b1e878f480",
+          "uploadDebugSymbols": false,
+          "fileOutput": "lib/firebase_options.dart"
+        }
+      },
+      "windows": {
+        "default": {
+          "projectId": "vacha-88a27",
+          "appId": "1:633270936961:web:c86a28ba058cdcce78f480",
+          "fileOutput": "lib/firebase_options.dart"
+        }
+      }
+    }
+  },
+  "dart": {
+    "lib/firebase_options.dart": {
+      "projectId": "vacha-88a27",
+      "configurations": {
+        "android": "1:93186379991:android:de10d55ae2cfe294d92092",
+        "ios": "1:633270936961:ios:031191b2f22cca7778f480",
+        "macos": "1:633270936961:ios:031191b2f22cca7778f480",
+        "web": "1:633270936961:web:3443dd69dec2b1e878f480",
+        "windows": "1:633270936961:web:c86a28ba058cdcce78f480"
+      }
+    }
+  }
+}
