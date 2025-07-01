@@ -41,46 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCaJh-c4kGtsdHr_8kzF5VO-tJQqG2YPeg',
-    appId: '1:633270936961:web:3443dd69dec2b1e878f480',
-    messagingSenderId: '93186379991',
-    projectId: 'vacha-88a27',
-    authDomain: 'vacha-88a27.firebaseapp.com',
-    storageBucket: 'vacha-88a27.firebasestorage.app',
+    apiKey: 'API Key here',
+    appId: 'APP ID',
+    messagingSenderId: 'SENDER ID',
+    projectId: 'PROJECT ID',
+    authDomain: 'DOMAIN',
+    storageBucket: 'PROJECT_ID.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAFYIxAx1zOVVdMB0edADjkSy33B-SvRv4',
-    appId: '1:93186379991:android:de10d55ae2cfe294d92092',
-    messagingSenderId: '93186379991',
-    projectId: 'vacha-88a27',
-    storageBucket: 'vacha-88a27.firebasestorage.app',
+    apiKey: 'API Key here',
+    appId: 'APP ID',
+    messagingSenderId: 'SENDER ID',
+    projectId: 'PROJECT ID',
+    authDomain: 'DOMAIN',
+    storageBucket: 'PROJECT_ID.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA2RZ2Q3M8XvnSxNSIJEJ8y2hsU0AhHN0w',
-    appId: '1:633270936961:ios:031191b2f22cca7778f480',
-    messagingSenderId: '93186379991',
-    projectId: 'vacha-88a27',
-    storageBucket: 'vacha-88a27.firebasestorage.app',
-    iosBundleId: 'com.langlex.speech',
+    apiKey: 'API Key here',
+    appId: 'APP ID',
+    messagingSenderId: 'SENDER ID',
+    projectId: 'PROJECT ID',
+    authDomain: 'DOMAIN',
+    storageBucket: 'PROJECT_ID.firebasestorage.app',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA2RZ2Q3M8XvnSxNSIJEJ8y2hsU0AhHN0w',
-    appId: '1:633270936961:ios:031191b2f22cca7778f480',
-    messagingSenderId: '93186379991',
-    projectId: 'vacha-88a27',
-    storageBucket: 'vacha-88a27.firebasestorage.app',
-    iosBundleId: 'com.langlex.speech',
+     apiKey: 'API Key here',
+    appId: 'APP ID',
+    messagingSenderId: 'SENDER ID',
+    projectId: 'PROJECT ID',
+    authDomain: 'DOMAIN',
+    storageBucket: 'PROJECT_ID.firebasestorage.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCaJh-c4kGtsdHr_8kzF5VO-tJQqG2YPeg',
-    appId: '1:633270936961:web:c86a28ba058cdcce78f480',
-    messagingSenderId: '93186379991',
-    projectId: 'vacha-88a27',
-    authDomain: 'vacha-88a27.firebaseapp.com',
-    storageBucket: 'vacha-88a27.firebasestorage.app',
+     apiKey: 'API Key here',
+    appId: 'APP ID',
+    messagingSenderId: 'SENDER ID',
+    projectId: 'PROJECT ID',
+    authDomain: 'DOMAIN',
+    storageBucket: 'PROJECT_ID.firebasestorage.app',
   );
 }
